@@ -14,7 +14,7 @@ Email: xu.yating[at]u[dot]nus[dot]edu
 
 Publication List
 ====================================
-<img align="left" src="../images/gw.pdf"/>
+<img align="left" src="../images/gw.png"/>
 Generalized Few-Shot Point Cloud Segmentation Via Geometric Words.
 Yating Xu, Conghui Hu, Na Zhao, Gim Hee Lee.
 *International Conference on Computer Vision (ICCV), 2023*
