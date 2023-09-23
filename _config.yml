@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yating Xu"
-  avatar           : "yating.jpg"
+  avatar           : "yating.png"
   bio              : #""
   location         : #"Location"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://pixie8888.github.io/YatingXu.github.io"
+  github           : #"https://pixie8888.github.io/YatingXu.github.io"
   google_plus      :
   keybase          :
   instagram        :
