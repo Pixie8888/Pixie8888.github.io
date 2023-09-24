@@ -25,7 +25,7 @@ Towards Robust Few-shot Point Cloud Semantic Segmentation
 [paper](https://arxiv.org/abs/2309.11228)
 
 Motion and Context-Aware Audio-Visual Conditioned Video Prediction  
-**Yating Xu**, Conghui Hu, Gim Hee Lee.
+**Yating Xu**, Conghui Hu, Gim Hee Lee.  
 *The British Machine Vision Conference (BMVC), 2023*  
 [paper](https://arxiv.org/abs/2212.04679)
 
