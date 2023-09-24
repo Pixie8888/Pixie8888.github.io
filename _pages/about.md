@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a forth year PhD student in the Computer Science Department at National Univeristy of Singapore, advised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received my B.E. degree from Tianjin University in 2020. My research interests are 3D scene understanding, low-shot learning and multi-modal understanding.
+I am currently a forth year PhD student in the Computer Science Department at [National Univeristy of Singapore](https://nus.edu.sg/), advised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. My research interests are 3D scene understanding, low-shot learning and multi-modal understanding.
 
 Email: xu.yating[at]u[dot]nus[dot]edu
 
