@@ -14,8 +14,8 @@ Email: xu.yating[at]u.nus.edu
 
 Publication List
 ---------------------------------------
-Rethink Cross-modal Fusion in Weakly-Supervised Audio-Visual Video Parsing
-**Yating Xu**, Conghui Hu, Gim Hee Lee.
+Rethink Cross-modal Fusion in Weakly-Supervised Audio-Visual Video Parsing  
+**Yating Xu**, Conghui Hu, Gim Hee Lee.  
 *Winter Conference on Applications of Computer Vision (WACV) 2024*
 
 Generalized Few-Shot Point Cloud Segmentation Via Geometric Words  
