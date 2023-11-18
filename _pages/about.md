@@ -16,12 +16,13 @@ Publication List
 ---------------------------------------
 Rethink Cross-modal Fusion in Weakly-Supervised Audio-Visual Video Parsing  
 **Yating Xu**, Conghui Hu, Gim Hee Lee.  
-*Winter Conference on Applications of Computer Vision (WACV) 2024*
+*Winter Conference on Applications of Computer Vision (WACV) 2024*  
+[paper](https://arxiv.org/abs/2311.08151)
 
 Generalized Few-Shot Point Cloud Segmentation Via Geometric Words  
 **Yating Xu**, Conghui Hu, Na Zhao, Gim Hee Lee.  
 *International Conference on Computer Vision (ICCV) 2023*  
-[paper](https://arxiv.org/abs/2309.11222)  
+[paper](https://arxiv.org/abs/2309.11222) [code](https://github.com/Pixie8888/GFS-3DSeg_GWs)  
 
 Towards Robust Few-shot Point Cloud Semantic Segmentation  
 **Yating Xu**, Na Zhao, Gim Hee Lee.  
