@@ -22,7 +22,7 @@ Generalized Few-Shot Point Cloud Segmentation Via Geometric Words
 Towards Robust Few-shot Point Cloud Semantic Segmentation  
 **Yating Xu**, Na Zhao, Gim Hee Lee.  
 *The British Machine Vision Conference (BMVC) 2023*  
-[paper](https://arxiv.org/abs/2309.11228)
+[paper](https://arxiv.org/abs/2309.11228) [code](https://github.com/Pixie8888/R3DFSSeg) 
 
 Rethink Cross-modal Fusion in Weakly-Supervised Audio-Visual Video Parsing  
 **Yating Xu**, Conghui Hu, Gim Hee Lee.  
