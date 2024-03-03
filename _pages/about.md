@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a forth-year PhD student in the Computer Science Department at [National Univeristy of Singapore](https://nus.edu.sg/), advised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. My primary research interest is semantic and geometric 3D scene understanding. I am also interested in low-shot learning, learning with noisy label and multi-modal understanding.
+I am currently a forth-year PhD student in the Computer Science Department at [National Univeristy of Singapore](https://nus.edu.sg/), advised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. My primary research interest is 3D scene understanding. I am also interested in low-shot learning, learning with noisy label and multi-modal understanding.
 
 Email: xu.yating[at]u.nus.edu
 
@@ -41,6 +41,7 @@ Teaching Assistant
 
 Awards
 -----------------------------------
+- 2023: Research Achievement Award of NUS
 - 2019: National Scholarship of China
 - 2018: Samsung Scholarship of Tianjin University 
 - 2017: National Scholarship of China
