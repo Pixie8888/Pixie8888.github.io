@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a forth-year PhD student in the Computer Science Department at [National Univeristy of Singapore](https://nus.edu.sg/), advised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. My primary research interest is 3D scene understanding. I am also interested in low-shot learning, learning with noisy label and multi-modal understanding.
 
-*I am seeking a job at a company or research institute starting in winter 2024. I am also interested in internships beginning in September 2024. If you think I am a good fit, please contact me via email.*
+*I am seeking a job at a company or research institute starting in winter 2024. I am also interested in internships starting as early as August 2024. If you think I am a good fit, please contact me via email.*
 
 Email: xu.yating[at]u.nus.edu
 
