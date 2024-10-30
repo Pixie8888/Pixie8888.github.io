@@ -14,6 +14,11 @@ Email: xu.yating[at]u.nus.edu
 
 Publication List
 ---------------------------------------
+MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps  
+**Yating Xu**, Chen Li, Gim Hee Lee.  
+*NeurIPS 2024*  
+[paper](https://arxiv.org/pdf/2410.21566) [code](https://github.com/Pixie8888/MVSDet) 
+
 Generalized Few-Shot Point Cloud Segmentation Via Geometric Words  
 **Yating Xu**, Conghui Hu, Na Zhao, Gim Hee Lee.  
 *International Conference on Computer Vision (ICCV) 2023*  
