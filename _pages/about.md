@@ -46,7 +46,8 @@ Teaching Assistant
 
 Awards
 -----------------------------------
-- 2023: Research Achievement Award of NUS
+- 2024: Research Achievement Award of National University of Singapore
+- 2023: Research Achievement Award of National University of Singapore
 - 2019: National Scholarship of China
 - 2018: Samsung Scholarship of Tianjin University 
 - 2017: National Scholarship of China
