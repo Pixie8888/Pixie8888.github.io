@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student majored in Computer Science at [National Univeristy of Singapore](https://nus.edu.sg/), advised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. My research interest is mainly on 3D scene understanding. 
-
-*I am looking for jobs starting 2025 summer. Feel free to reach out if you have any openings.*
+I obtained PhD degree in Computer Science at [National Univeristy of Singapore](https://nus.edu.sg/). My PhD supervisor is [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. My research interest is mainly on 3D scene understanding. 
 
 Email: xu.yating[at]u.nus.edu
 
