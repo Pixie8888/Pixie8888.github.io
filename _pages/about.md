@@ -8,12 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I obtained PhD degree in Computer Science at [National Univeristy of Singapore](https://nus.edu.sg/). My PhD supervisor is [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. My research interest is mainly on 3D scene understanding. 
+I obtained PhD degree in Computer Science at [National Univeristy of Singapore](https://nus.edu.sg/) in 2025 under supervision of [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. 
 
-Email: xu.yating[at]u.nus.edu
+**Research Interests:**  
+- Open-world 3D scene understanding
+- Vision-language models for 3D perception
+- Generative models for controllable image and video synthesis
+
+**Email:** [xu.yating@u.nus.edu](mailto:xu.yating@u.nus.edu)
+
 
 Publication List
 ---------------------------------------
+FG-Portrait: 3D Flow Guided Editable Portrait Animation   
+**Yating Xu**, Yunqi Miao, Evangelos Ververas, Jiankang Deng, Jifei Song.  
+*CVPR 2026*  
+[paper](https://pixie8888.github.io/) [code](https://pixie8888.github.io/)
+
 MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps  
 **Yating Xu**, Chen Li, Gim Hee Lee.  
 *NeurIPS 2024*  
