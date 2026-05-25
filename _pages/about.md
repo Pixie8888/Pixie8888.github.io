@@ -11,8 +11,7 @@ redirect_from:
 I obtained PhD degree in Computer Science at [National Univeristy of Singapore](https://nus.edu.sg/) in 2025 under supervision of [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/cs/people/leegh/). I received B.E. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm) in 2020. 
 
 **Research Interests:**  
-- Open-world 3D scene understanding
-- Vision-language models for 3D perception
+- 3D Vision-language models
 - Generative models for controllable image and video synthesis
 
 **Email:** [xu.yating@u.nus.edu](mailto:xu.yating@u.nus.edu)
