@@ -22,7 +22,7 @@ Publication List
 FG-Portrait: 3D Flow Guided Editable Portrait Animation   
 **Yating Xu**, Yunqi Miao, Evangelos Ververas, Jiankang Deng, Jifei Song.  
 *CVPR 2026*  
-[paper](https://pixie8888.github.io/) [code](https://pixie8888.github.io/)
+[paper](https://arxiv.org/abs/2603.23381) [code](https://pixie8888.github.io/)
 
 MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps  
 **Yating Xu**, Chen Li, Gim Hee Lee.  
